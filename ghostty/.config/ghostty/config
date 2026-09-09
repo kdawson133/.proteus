@@ -1,0 +1,25 @@
+confirm-close-surface = false
+# Font configuration
+font-family = "JetBrainsMono Nerd Font Mono"
+font-size = 14
+
+# Window settings
+window-padding-x = 14
+window-padding-y = 14
+window-height = 24
+window-width = 80 
+# window-decoration = false
+background-opacity = 0.85
+
+# Cursor
+adjust-cursor-thickness = 2
+cursor-style = bar
+cursor-style-blink = true
+# Terminal settings
+term = xterm-256color
+
+# Keybindings
+keybind = f11=toggle_fullscreen
+
+# Themes
+theme = tokyonight
