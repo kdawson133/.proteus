@@ -1,15 +1,16 @@
+title= "Ghostty"
 confirm-close-surface = false
 # Font configuration
 font-family = "JetBrainsMono Nerd Font Mono"
-font-size = 14
+font-size = 12
 
 # Window settings
-window-padding-x = 14
-window-padding-y = 14
+window-padding-x = 10
+window-padding-y = 10
 window-height = 24
 window-width = 80 
 # window-decoration = false
-background-opacity = 0.85
+background-opacity = 0.8
 
 # Cursor
 adjust-cursor-thickness = 2
