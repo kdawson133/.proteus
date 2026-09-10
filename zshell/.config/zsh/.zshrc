@@ -13,7 +13,7 @@ source "$ZDOTDIR/plugins.zsh"
 
 # NOTE: HISTORY
 HISTSIZE=100000
-HISTFILE='$XDG_STATE_HOME'/zsh/history
+HISTFILE=$XDG_STATE_HOME/zsh/history
 SAVEHIST=$HISTSIZE
 HISTDUP=erase
 setopt appendhistory
